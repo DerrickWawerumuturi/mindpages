@@ -1,4 +1,4 @@
-import React from "react"
+
 import '../app.scss'
 import Navbar from './Navbar'
 import Hero from './Hero'

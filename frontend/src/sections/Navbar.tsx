@@ -1,4 +1,4 @@
-import React from "react"
+
 import { useEffect, useRef, useState } from "react"
 import { AiFillFolder } from "react-icons/ai"
 import gsap from "gsap"
