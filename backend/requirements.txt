@@ -12,11 +12,8 @@ onnxruntime==1.22.1
 pydantic==2.9.1
 
 numpy==1.26.4
-pandas==2.2.2
 matplotlib==3.10.5
-orjson==3.11.1
 
-gradio==4.44.0
 
 ibm_watsonx_ai==1.1.2
 ibm-cos-sdk==2.13.6
