@@ -32,7 +32,7 @@ const Rag = () => {
         try {
             setIsLoading(true)
             setResponse('')
-            const res = await axios.post('http://localhost:8000/bot', formData, {
+            const res = await axios.post('https://mindpages.onrender.com/bot', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',
                 },
