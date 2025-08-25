@@ -1,0 +1,50 @@
+# ignore env
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+backend/server/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+
+backend/env/*
+backend/env
+backend/server
+
+# Build outputs
+frontend/dist/
+frontend/build/
+*.tsbuildinfo
+
+
+# OS generated files
+backend/chroma_store
+
+
+
+
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+
