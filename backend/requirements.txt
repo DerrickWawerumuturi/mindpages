@@ -11,6 +11,9 @@ langchain-community==0.2.10
 langchain-core==0.2.43
 langchain-ibm==0.1.11
 
+# PDF processing
+pypdf==5.1.0
+
 # Data processing (using pre-compiled wheels)
 chromadb==0.4.24
 huggingface-hub==0.34.3
